@@ -1,0 +1,1 @@
+from qtt.new.configuration_helper.m4i_instrument_adapter import M4iInstrumentAdapter

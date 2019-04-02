@@ -1,0 +1,2 @@
+from qtt.new.signal_process.SignalProcessInterface import SignalProcessInterface
+from qtt.new.signal_process.process_sawtooth_1D import ProcessSawtooth1D

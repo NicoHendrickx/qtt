@@ -1,0 +1,3 @@
+from qtt.new.acquisition.interfaces.acquisition_interface import AcquisitionInterface
+from qtt.new.acquisition.interfaces.acquisition_scope_interface import AcquisitionScopeInterface
+from qtt.new.acquisition.interfaces.acquisition_sweep_interface import AcquisitionSweepInterface

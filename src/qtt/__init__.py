@@ -27,6 +27,7 @@ import qtt.data
 import qtt.algorithms
 import qtt.measurements
 import qtt.exceptions
+import qtt.new
 
 from qtt.version import __version__
 from qtt.measurements.storage import save_state, load_state
