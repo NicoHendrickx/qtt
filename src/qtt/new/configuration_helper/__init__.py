@@ -1,1 +1,2 @@
 from qtt.new.configuration_helper.m4i_instrument_adapter import M4iInstrumentAdapter
+from qtt.new.configuration_helper.configuration_storage import load_adapter, save_adapter

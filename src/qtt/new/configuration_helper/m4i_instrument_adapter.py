@@ -1,8 +1,8 @@
 import logging
 
 from qcodes.instrument_drivers.Spectrum.M4i import M4i
-from qilib.utils import PythonJsonStructure
 
+from qilib.utils import PythonJsonStructure
 from qilib.configuration_helper import InstrumentAdapter
 
 
